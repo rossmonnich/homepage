@@ -1,10 +1,13 @@
 import React, {Component} from 'react';
+import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div>
-        Welcome to homepage
+      <div className="bg flex">
+        <div className="yo">
+          coming soon
+        </div>
       </div>
     );
   }
