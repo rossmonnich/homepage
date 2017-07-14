@@ -2,6 +2,7 @@
   "name": "homepage",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://rossmonnich.github.io/homepage",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react": "^15.6.1",
